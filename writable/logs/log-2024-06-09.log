@@ -1,0 +1,132 @@
+CRITICAL - 2024-06-09 12:45:56 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 12:54:18 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 12:55:12 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 12:56:55 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 12:57:30 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 12:58:15 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 70.
+ 1 APPPATH\Controllers\Core\ImportController.php(70): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:13:42 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 80.
+ 1 APPPATH\Controllers\Core\ImportController.php(80): array_combine([...], [])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:26:06 --> ErrorException: Undefined array key "category"
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 90.
+ 1 APPPATH\Controllers\Core\ImportController.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "category"', 'C:\\wamp64\\www\\remote-devs\\app\\Controllers\\Core\\ImportController.php', 90)
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:33:19 --> ErrorException: Undefined array key "name"
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 86.
+ 1 APPPATH\Controllers\Core\ImportController.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\wamp64\\www\\remote-devs\\app\\Controllers\\Core\\ImportController.php', 86)
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:39:05 --> TypeError: explode(): Argument #2 ($string) must be of type string, array given
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 62.
+ 1 APPPATH\Controllers\Core\ImportController.php(62): explode('	', [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:39:28 --> TypeError: explode(): Argument #2 ($string) must be of type string, array given
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 57.
+ 1 APPPATH\Controllers\Core\ImportController.php(57): explode('	', [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 13:42:47 --> ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements
+[Method: POST, Route: import/upload]
+in APPPATH\Controllers\Core\ImportController.php on line 66.
+ 1 APPPATH\Controllers\Core\ImportController.php(66): array_combine([...], [...])
+ 2 APPPATH\Controllers\Core\ImportController.php(35): App\Controllers\Core\ImportController->importCSVData([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Core\ImportController->upload()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Core\ImportController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
